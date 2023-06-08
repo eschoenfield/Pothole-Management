@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+	"headers": {  
+      "source": "**/*.@(jpg|jpeg|gif|png)",
+      "key": "Access-Control-Allow-Origin",
+      "value": "*"
+    }
+}

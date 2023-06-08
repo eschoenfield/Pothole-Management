@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1098731538923",
+    "project_id": "potholemanagement-396d0",
+    "storage_bucket": "potholemanagement-396d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098731538923:android:0adf947cc79ad791e4f1ae",
+        "android_client_info": {
+          "package_name": "com.example.pothole_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098731538923-jjv8dtluqteie4nb1vsg9q5346v0bou4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFm-rWunD7dY4GsSvm00_mYkYsnOEq94Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098731538923-jjv8dtluqteie4nb1vsg9q5346v0bou4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098731538923-2osgi7mqdlikhuqil0fdjmobsvu6jj55.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.potholeManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
