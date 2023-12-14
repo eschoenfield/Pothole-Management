@@ -1,3 +1,2 @@
 # pothole_management
-This will be an app for reporting and managing potholes.
-#CINS 467 Pothole Tracking Project
+This project is a proof of concept proposed by Dr. DingXin Cheng to track potholes for Caltrans and cities. The project has since received research funding from Caltrans. The Mobile application allows users to uploaded images, dimensions, and locations of potholes to store onto a Firebase Cloud Storage. Then a Caltrans or city worker can use login with Google OAuth to a hosted website to view a pin map overlay displaying all the information of each pothole submitted.
